@@ -1,0 +1,20 @@
+# hosts v1.0.0
+# https://n2o.io/go?page=project-bridge
+#
+# Copyright 2021 Francis Zhao <francis@n2o.io>
+# Released under the MIT license
+# https://github.com/francis-zhao/project-bridge/blob/master/LICENSE
+#
+# Date: 2021-11-26T04:00+07:00
+#
+
+# Binance Pools 币安矿池
+39.105.87.97       sha256.poolbinance.com
+99.83.150.206      sha256.poolbinance.com
+75.2.87.245        bs.poolbinance.com
+99.83.150.206      bs.poolbinance.com
+120.77.158.196     ethash.poolbinance.com
+13.248.162.234     ethash.poolbinance.com
+76.223.62.235      ethash.poolbinance.com
+35.71.149.227      ltc.poolbinance.com
+52.223.34.207      ltc.poolbinance.com
